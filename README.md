@@ -1,1 +1,3 @@
 # shell-config
+
+Contains config files for zsh, vim, etc...
